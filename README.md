@@ -1,7 +1,8 @@
 # springboot-email-demo
 springboot实现简单的邮件发送功能
 
-需要提供一个发送者的邮箱，切需要为邮箱开通smtp
+需要提供一个发送者的邮箱，且需要为邮箱开通smtp
+
 需要的配置如下：
 spring:
   mail:
